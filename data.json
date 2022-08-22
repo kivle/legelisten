@@ -410,6 +410,16 @@
     "availability": "0"
   },
   {
+    "rating": "3.5",
+    "reviewCount": "27",
+    "name": "Kåre Reiten",
+    "sex": "Mann",
+    "age": "67",
+    "company": "Holmen Legesenter",
+    "address": "Nedre Holmegate 30",
+    "availability": "0"
+  },
+  {
     "rating": "4.5",
     "reviewCount": "17",
     "name": "Karen Christensen",
@@ -497,16 +507,6 @@
     "age": "42",
     "company": "Hundvåg legesenter",
     "address": "Hundvågveien 41B",
-    "availability": "0"
-  },
-  {
-    "rating": "3.5",
-    "reviewCount": "27",
-    "name": "Kåre Reiten",
-    "sex": "Mann",
-    "age": "67",
-    "company": "Holmen Legesenter",
-    "address": "Nedre Holmegate 30",
     "availability": "0"
   },
   {
@@ -820,6 +820,26 @@
     "availability": "0"
   },
   {
+    "rating": "4.0",
+    "reviewCount": "20",
+    "name": "Øystein Dale",
+    "sex": "Mann",
+    "age": "68",
+    "company": "Stavanger Legesenter Ø. Dale",
+    "address": "Tastatunet 1-3",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "23",
+    "name": "Paal Andre&#39; Skjærpe",
+    "sex": "Mann",
+    "age": "39",
+    "company": "Hundvåg legesenter",
+    "address": "Hundvågveien 41B",
+    "availability": "0"
+  },
+  {
     "rating": "4.5",
     "reviewCount": "21",
     "name": "Per Ivar Johannessen",
@@ -870,16 +890,6 @@
     "availability": "0"
   },
   {
-    "rating": "4.5",
-    "reviewCount": "23",
-    "name": "Paal Andre&#39; Skjærpe",
-    "sex": "Mann",
-    "age": "39",
-    "company": "Hundvåg legesenter",
-    "address": "Hundvågveien 41B",
-    "availability": "0"
-  },
-  {
     "rating": "3.5",
     "reviewCount": "16",
     "name": "Ragna Thime Hersvik",
@@ -917,6 +927,16 @@
     "age": "65",
     "company": "Legesenteret Mariero",
     "address": "Langflåtv 38",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "37",
+    "name": "Saadiya Javid",
+    "sex": "Kvinne",
+    "age": "43",
+    "company": "Stavangerdoktoren",
+    "address": "St. Olavs gate 6",
     "availability": "0"
   },
   {
@@ -1027,16 +1047,6 @@
     "age": "38",
     "company": "Hinna Legesenter AS",
     "address": "Boganesveien 10",
-    "availability": "0"
-  },
-  {
-    "rating": "3.0",
-    "reviewCount": "37",
-    "name": "Saadiya Javid",
-    "sex": "Kvinne",
-    "age": "43",
-    "company": "Stavangerdoktoren",
-    "address": "St. Olavs gate 6",
     "availability": "0"
   },
   {
@@ -1187,16 +1197,6 @@
     "age": "70",
     "company": "Madlakrossen Legesenter",
     "address": "Madlamarkveien 2",
-    "availability": "0"
-  },
-  {
-    "rating": "4.0",
-    "reviewCount": "20",
-    "name": "Øystein Dale",
-    "sex": "Mann",
-    "age": "68",
-    "company": "Stavanger Legesenter Ø. Dale",
-    "address": "Tastatunet 1-3",
     "availability": "0"
   }
 ]
