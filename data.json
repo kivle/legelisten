@@ -1,0 +1,1202 @@
+[
+  {
+    "rating": "4.0",
+    "reviewCount": "1 vurdering",
+    "name": "Anita Fjukmoen",
+    "sex": "Kvinne",
+    "age": "45",
+    "company": "Finnøy Legekontor",
+    "address": "Judabergvegen 6",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "1 vurdering",
+    "name": "Annbjørg Hegelstad Søreide",
+    "sex": "Kvinne",
+    "age": "46",
+    "company": "Lervig Legekontor",
+    "address": "Ryfylkegata 55",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "10",
+    "name": "Anne Hegelstad-Bielak",
+    "sex": "Kvinne",
+    "age": "44",
+    "company": "Tjensvoll legesenter",
+    "address": "Tjensvolltorget 4",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "21",
+    "name": "Anne Maria Theresia Eyting Aronsson",
+    "sex": "Kvinne",
+    "age": "62",
+    "company": "Klubbgaten Legesenter",
+    "address": "Klubbgaten 1",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "26",
+    "name": "Arild Lothe",
+    "sex": "Mann",
+    "age": "62",
+    "company": "Nytorget Legesenter",
+    "address": "Klubbgata 5 (Arkaden)",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "12",
+    "name": "Axel Mauroschat Sund",
+    "sex": "Mann",
+    "age": "65",
+    "company": "Byfjorden Legesenter",
+    "address": "Skogstøstraen 37",
+    "availability": "0"
+  },
+  {
+    "rating": "2.5",
+    "reviewCount": "19",
+    "name": "Bjarte Sandve Helgøy",
+    "sex": "Mann",
+    "age": "42",
+    "company": "Stavangerdoktoren",
+    "address": "St. Olavs gate 6",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "26",
+    "name": "Camilla Amalie Tufto",
+    "sex": "Kvinne",
+    "age": "42",
+    "company": "Stavanger Medisinske Senter",
+    "address": "Sverdrupsgate 23",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "1 vurdering",
+    "name": "Camilla Sandvik Andersen",
+    "sex": "Kvinne",
+    "age": "36",
+    "company": "Legesenteret Mariero",
+    "address": "Langflåtv 38",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "13",
+    "name": "Cathrine Bendz Aarrestad",
+    "sex": "Kvinne",
+    "age": "60",
+    "company": "Køhler Legesenter",
+    "address": "Langflåtveien 33",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "7",
+    "name": "Cato Knutsen",
+    "sex": "Mann",
+    "age": "36",
+    "company": "Paradis Legesenter",
+    "address": "Lagårdsveien 73",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "23",
+    "name": "Dag Rune Østhus",
+    "sex": "Mann",
+    "age": "44",
+    "company": "Legekontor Dr. Østhus",
+    "address": "Kannikbakken 6",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "1 vurdering",
+    "name": "Dan Erik Aronsson",
+    "sex": "Mann",
+    "age": "38",
+    "company": "Klubbgaten Legesenter",
+    "address": "Klubbgaten 1",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "9",
+    "name": "Egil Bjørløw",
+    "sex": "Mann",
+    "age": "53",
+    "company": "Hillevåg legesenter",
+    "address": "Hillevågsveien 41",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "4",
+    "name": "Einar Mathisen Hansen",
+    "sex": "Mann",
+    "age": "29",
+    "company": "Hafrsfjord legesenter AS",
+    "address": "Madlakrossen 25",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "22",
+    "name": "Eirik Viste",
+    "sex": "Mann",
+    "age": "43",
+    "company": "Byhaugen Legesenter",
+    "address": "Randabergveien 45",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "7",
+    "name": "Eirik Wiborg Thom",
+    "sex": "Mann",
+    "age": "41",
+    "company": "Hinnatrekanten Legesenter AS",
+    "address": "Hinnasvingene 55",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "18",
+    "name": "Elma Ramic",
+    "sex": "Kvinne",
+    "age": "38",
+    "company": "Vågsmyra Legesenter",
+    "address": "Boganesveien 29",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "25",
+    "name": "Erik Jesman Pedersen",
+    "sex": "Mann",
+    "age": "61",
+    "company": "Hillevågsdoktoren AS",
+    "address": "Gartnerveien 15",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "9",
+    "name": "Espen Grimstad",
+    "sex": "Mann",
+    "age": "38",
+    "company": "Bekkefaret Legesenter",
+    "address": "Torgveien 15 C",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "27",
+    "name": "Espen Stangeland",
+    "sex": "Mann",
+    "age": "50",
+    "company": "Legekontorene Skagen 12",
+    "address": "Legekontorene Skagen 12",
+    "availability": "0"
+  },
+  {
+    "rating": "2.5",
+    "reviewCount": "3",
+    "name": "Farzana Islam",
+    "sex": "Kvinne",
+    "age": "38",
+    "company": "Forus Legesenter AS",
+    "address": "Heddeveien 120",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "8",
+    "name": "Frank Thomas Brodschøll",
+    "sex": "Mann",
+    "age": "46",
+    "company": "Rennesøy legekontor",
+    "address": "Seljebakken 4",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "18",
+    "name": "Geir Helge Waaler",
+    "sex": "Mann",
+    "age": "40",
+    "company": "Nytorget Legesenter",
+    "address": "Klubbgata 5 (Arkaden)",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "36",
+    "name": "Geir Jensen Henanger",
+    "sex": "Mann",
+    "age": "59",
+    "company": "Geir Henanger AS",
+    "address": "Madlakrossen 25",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "16",
+    "name": "Guro Gjesdal Michelsen",
+    "sex": "Kvinne",
+    "age": "45",
+    "company": "Øyane Legesenter DA",
+    "address": "Austbøsletta 5",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "13",
+    "name": "Halvor Kyllingstad",
+    "sex": "Mann",
+    "age": "66",
+    "company": "Tasta legesenter",
+    "address": "Tastatunet 1-3",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "15",
+    "name": "Hamed Al-Gebory",
+    "sex": "Mann",
+    "age": "51",
+    "company": "Stavanger Legesenter Al-Gebory",
+    "address": "Lagårdsveien 91",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "20",
+    "name": "Harald Bjørnestad",
+    "sex": "Mann",
+    "age": "63",
+    "company": "Storhaug Legesenter DA",
+    "address": "Klubbgata 1",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "28",
+    "name": "Hege Høivik",
+    "sex": "Kvinne",
+    "age": "59",
+    "company": "Holmen Legesenter",
+    "address": "Nedre Holmegate 30",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "13",
+    "name": "Hege Svangtun",
+    "sex": "Kvinne",
+    "age": "43",
+    "company": "Bekkefaret Legesenter",
+    "address": "Torgveien 15 C",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "14",
+    "name": "Hosea Binyam",
+    "sex": "Mann",
+    "age": "37",
+    "company": "Madlaklinikken AS",
+    "address": "Madlakrossen 9",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "2",
+    "name": "Ina Jacobsen",
+    "sex": "Kvinne",
+    "age": "29",
+    "company": "Hafrsfjord legesenter AS",
+    "address": "Madlakrossen 25",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "4",
+    "name": "Inger Marie Godeseth",
+    "sex": "Kvinne",
+    "age": "36",
+    "company": "Hinna Legesenter AS",
+    "address": "Boganesveien 10",
+    "availability": "0"
+  },
+  {
+    "rating": "0.0",
+    "reviewCount": "0",
+    "name": "Irene Berchy Luoga",
+    "sex": "Kvinne",
+    "age": "57",
+    "company": "Hinna Legesenter AS",
+    "address": "Boganesveien 10",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "20",
+    "name": "Ivar Halvorsen",
+    "sex": "Mann",
+    "age": "64",
+    "company": "Køhler Legesenter",
+    "address": "Langflåtveien 33",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "20",
+    "name": "Jacques Honoré",
+    "sex": "Mann",
+    "age": "67",
+    "company": "Storhaug Legesenter DA",
+    "address": "Klubbgata 1",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "7",
+    "name": "Jan Bjørnar Holen",
+    "sex": "Mann",
+    "age": "37",
+    "company": "Nytorget Legesenter",
+    "address": "Klubbgata 5 (Arkaden)",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "24",
+    "name": "Jan Charles Giljebrekke",
+    "sex": "Mann",
+    "age": "72",
+    "company": "Tjensvoll legesenter",
+    "address": "Tjensvolltorget 4",
+    "availability": "0"
+  },
+  {
+    "rating": "2.5",
+    "reviewCount": "32",
+    "name": "Jan Robert Johannessen",
+    "sex": "Mann",
+    "age": "50",
+    "company": "Hinnatrekanten Legesenter AS",
+    "address": "Hinnasvingene 55",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "19",
+    "name": "Julie Ellingsen Hustad",
+    "sex": "Kvinne",
+    "age": "40",
+    "company": "Køhler Legesenter",
+    "address": "Langflåtveien 33",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "17",
+    "name": "Karen Christensen",
+    "sex": "Kvinne",
+    "age": "56",
+    "company": "Legesenteret Mariero",
+    "address": "Langflåtv 38",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "18",
+    "name": "Kari Ersland",
+    "sex": "Kvinne",
+    "age": "56",
+    "company": "Nytorget Legesenter",
+    "address": "Klubbgata 5 (Arkaden)",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "27",
+    "name": "Kari Tau Strand Oanes",
+    "sex": "Kvinne",
+    "age": "45",
+    "company": "Stavanger Medisinske Senter",
+    "address": "Sverdrupsgate 23",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "1 vurdering",
+    "name": "Karoline Tyberø",
+    "sex": "Kvinne",
+    "age": "32",
+    "company": "Hillevågsdoktoren AS",
+    "address": "Gartnerveien 15",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "18",
+    "name": "Kjeld Gregertsen",
+    "sex": "Mann",
+    "age": "64",
+    "company": "Byfjorden Legesenter",
+    "address": "Skogstøstraen 37",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "9",
+    "name": "Kjersti Louise Hodne",
+    "sex": "Kvinne",
+    "age": "42",
+    "company": "Rennesøy legekontor",
+    "address": "Seljebakken 4",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "17",
+    "name": "Konstanse Aslaug Sandvik Devold",
+    "sex": "Kvinne",
+    "age": "47",
+    "company": "Øyane Legesenter DA",
+    "address": "Austbøsletta 5",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "14",
+    "name": "Kristian Oppedal",
+    "sex": "Mann",
+    "age": "45",
+    "company": "Stokka legesenter",
+    "address": "Øvre Stokkavei 46",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "8",
+    "name": "Kristin Medhus",
+    "sex": "Kvinne",
+    "age": "42",
+    "company": "Hundvåg legesenter",
+    "address": "Hundvågveien 41B",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "27",
+    "name": "Kåre Reiten",
+    "sex": "Mann",
+    "age": "67",
+    "company": "Holmen Legesenter",
+    "address": "Nedre Holmegate 30",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "11",
+    "name": "Laila Frette",
+    "sex": "Kvinne",
+    "age": "55",
+    "company": "Hillevågsdoktoren AS",
+    "address": "Gartnerveien 15",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "18",
+    "name": "Lars Peter Christersson",
+    "sex": "Mann",
+    "age": "43",
+    "company": "Stavanger Medisinske Senter",
+    "address": "Sverdrupsgate 23",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "26",
+    "name": "Lene Sunniva Kvam-Johannessen",
+    "sex": "Kvinne",
+    "age": "45",
+    "company": "Stavangerdoktoren",
+    "address": "St. Olavs gate 6",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "40",
+    "name": "Line Cecilie Møller Christiansen",
+    "sex": "Kvinne",
+    "age": "47",
+    "company": "Stavanger Medisinske Senter",
+    "address": "Sverdrupsgate 23",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "8",
+    "name": "Line Nyman Rogneflåten",
+    "sex": "Kvinne",
+    "age": "46",
+    "company": "Hinnatrekanten Legesenter AS",
+    "address": "Hinnasvingene 55",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "20",
+    "name": "Linn Mari Vatsvåg",
+    "sex": "Kvinne",
+    "age": "42",
+    "company": "Bekkefaret Legesenter",
+    "address": "Torgveien 15 C",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "18",
+    "name": "Lis Verner Hansen",
+    "sex": "Kvinne",
+    "age": "60",
+    "company": "Hillevågsdoktoren AS",
+    "address": "Gartnerveien 15",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "10",
+    "name": "Lisbeth Økland",
+    "sex": "Kvinne",
+    "age": "61",
+    "company": "Legesenteret Mariero",
+    "address": "Langflåtv 38",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "3",
+    "name": "Lise Heidi Vaaland Dybdahl",
+    "sex": "Kvinne",
+    "age": "50",
+    "company": "Rennesøy legekontor",
+    "address": "Seljebakken 4",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "21",
+    "name": "Lynn Merethe Oppedal",
+    "sex": "Kvinne",
+    "age": "46",
+    "company": "Stokka legesenter",
+    "address": "Øvre Stokkavei 46",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "13",
+    "name": "Magne Sigbjørn Økland",
+    "sex": "Mann",
+    "age": "61",
+    "company": "Legesenteret Mariero",
+    "address": "Langflåtv 38",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "17",
+    "name": "Margaret Oshaug",
+    "sex": "Kvinne",
+    "age": "67",
+    "company": "Køhler Legesenter",
+    "address": "Langflåtveien 33",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "5",
+    "name": "Maria Hege Voktor Borgen",
+    "sex": "Kvinne",
+    "age": "32",
+    "company": "Stavanger Medisinske Senter",
+    "address": "Sverdrupsgate 23",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "16",
+    "name": "Marianne Sibel Tuncel Bakken",
+    "sex": "Kvinne",
+    "age": "33",
+    "company": "Klubbgaten Legesenter",
+    "address": "Klubbgaten 1",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "1 vurdering",
+    "name": "Marie Solli Slaattebræk",
+    "sex": "Kvinne",
+    "age": "37",
+    "company": "St. Olav Legegruppe",
+    "address": "St. Olavsgate 13",
+    "availability": "0"
+  },
+  {
+    "rating": "2.0",
+    "reviewCount": "26",
+    "name": "Mario Jorge Rodrigues Pereira",
+    "sex": "Mann",
+    "age": "60",
+    "company": "Madlakrossen Legesenter",
+    "address": "Madlamarkveien 2",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "14",
+    "name": "Marit Bergem Apeland",
+    "sex": "Kvinne",
+    "age": "65",
+    "company": "Madlakrossen Legesenter",
+    "address": "Madlamarkveien 2",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "21",
+    "name": "Marit Gullaksen Rønning",
+    "sex": "Kvinne",
+    "age": "62",
+    "company": "Storhaug Legesenter DA",
+    "address": "Klubbgata 1",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "5",
+    "name": "Matias Mathisen Rake",
+    "sex": "Mann",
+    "age": "36",
+    "company": "Hillevågsdoktoren AS",
+    "address": "Gartnerveien 15",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "25",
+    "name": "Mats Stangeland",
+    "sex": "Mann",
+    "age": "44",
+    "company": "Legekontorene Skagen 12",
+    "address": "Legekontorene Skagen 12",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "7",
+    "name": "May Elisabet Bennetzen",
+    "sex": "Kvinne",
+    "age": "40",
+    "company": "Nytorget Legesenter",
+    "address": "Klubbgata 5 (Arkaden)",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "34",
+    "name": "Mira Noltemeyer",
+    "sex": "Kvinne",
+    "age": "42",
+    "company": "Hinna Legesenter AS",
+    "address": "Boganesveien 10",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "28",
+    "name": "Mojtaba Ershadi",
+    "sex": "Mann",
+    "age": "52",
+    "company": "Madlaklinikken AS",
+    "address": "Madlakrossen 9",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "9",
+    "name": "Morten Hovdet",
+    "sex": "Mann",
+    "age": "50",
+    "company": "Finnøy Legekontor",
+    "address": "Judabergvegen 6",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "24",
+    "name": "Morten Munkvik",
+    "sex": "Mann",
+    "age": "49",
+    "company": "Stavanger Medisinske Senter",
+    "address": "Sverdrupsgate 23",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "8",
+    "name": "Møyfrid Müller",
+    "sex": "Kvinne",
+    "age": "41",
+    "company": "Byhaugen Legesenter",
+    "address": "Randabergveien 45",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "27",
+    "name": "Nachaat Aboujamous",
+    "sex": "Mann",
+    "age": "57",
+    "company": "Madlaklinikken AS",
+    "address": "Madlakrossen 9",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "3",
+    "name": "Nina Kallevik",
+    "sex": "Kvinne",
+    "age": "41",
+    "company": "Hundvåg legesenter",
+    "address": "Hundvågveien 41B",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "20",
+    "name": "Norman Isaac Evbinmaharia Idehen",
+    "sex": "Mann",
+    "age": "70",
+    "company": "Madlaklinikken AS",
+    "address": "Madlakrossen 9",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "5",
+    "name": "Nyantakyi Baffour Yeboah",
+    "sex": "Mann",
+    "age": "58",
+    "company": "Madlaklinikken AS",
+    "address": "Madlakrossen 9",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "5",
+    "name": "Oda Henriette Benjamin Reite",
+    "sex": "Kvinne",
+    "age": "30",
+    "company": "Finnøy Legekontor",
+    "address": "Judabergvegen 6",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "21",
+    "name": "Per Ivar Johannessen",
+    "sex": "Mann",
+    "age": "65",
+    "company": "Stokka legesenter",
+    "address": "Øvre Stokkavei 46",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "21",
+    "name": "Per Tonning Haaland",
+    "sex": "Mann",
+    "age": "65",
+    "company": "Hinna Legekontor",
+    "address": "Kari Lofthusgate 16",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "11",
+    "name": "Petter Enoksen",
+    "sex": "Mann",
+    "age": "44",
+    "company": "Byhaugen Legesenter",
+    "address": "Randabergveien 45",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "16",
+    "name": "Pia Skoglund",
+    "sex": "Kvinne",
+    "age": "41",
+    "company": "Stavanger Medisinske Senter",
+    "address": "Sverdrupsgate 23",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "9",
+    "name": "Prince Johnson",
+    "sex": "Mann",
+    "age": "43",
+    "company": "Tasta legesenter",
+    "address": "Tastatunet 1-3",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "23",
+    "name": "Paal Andre&#39; Skjærpe",
+    "sex": "Mann",
+    "age": "39",
+    "company": "Hundvåg legesenter",
+    "address": "Hundvågveien 41B",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "16",
+    "name": "Ragna Thime Hersvik",
+    "sex": "Kvinne",
+    "age": "65",
+    "company": "Paradis Legesenter",
+    "address": "Lagårdsveien 73",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "30",
+    "name": "Runar Johannessen",
+    "sex": "Mann",
+    "age": "48",
+    "company": "Stavanger Medisinske Senter",
+    "address": "Sverdrupsgate 23",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "34",
+    "name": "Rune Danielsen",
+    "sex": "Mann",
+    "age": "49",
+    "company": "Paradis Legesenter",
+    "address": "Lagårdsveien 73",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "16",
+    "name": "Ruth Louise Midtgarden",
+    "sex": "Kvinne",
+    "age": "65",
+    "company": "Legesenteret Mariero",
+    "address": "Langflåtv 38",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "9",
+    "name": "Saima Iqbal",
+    "sex": "Kvinne",
+    "age": "34",
+    "company": "Lervig Legekontor",
+    "address": "Ryfylkegata 55",
+    "availability": "0"
+  },
+  {
+    "rating": "0.0",
+    "reviewCount": "0",
+    "name": "Sayora Sivertsen",
+    "sex": "Kvinne",
+    "age": "52",
+    "company": "Stavanger Brygge Legesenter",
+    "address": "Lervigsveien 16",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "12",
+    "name": "Sigmund Worsøe Berg",
+    "sex": "Mann",
+    "age": "42",
+    "company": "Stavangerdoktoren",
+    "address": "St. Olavs gate 6",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "9",
+    "name": "Silje Seglem Heggheim",
+    "sex": "Kvinne",
+    "age": "47",
+    "company": "Hinnatrekanten Legesenter AS",
+    "address": "Hinnasvingene 55",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "19",
+    "name": "Solveig Hovland",
+    "sex": "Kvinne",
+    "age": "43",
+    "company": "Hundvåg legesenter",
+    "address": "Hundvågveien 41B",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "7",
+    "name": "Steven David Gang&#39;ai",
+    "sex": "Mann",
+    "age": "32",
+    "company": "Byhaugen Legesenter",
+    "address": "Randabergveien 45",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "36",
+    "name": "Stian Ellingsen Lobben",
+    "sex": "Mann",
+    "age": "44",
+    "company": "Nytorget Legesenter",
+    "address": "Klubbgata 5 (Arkaden)",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "29",
+    "name": "Stig David Stendahl",
+    "sex": "Mann",
+    "age": "49",
+    "company": "Hinnatrekanten Legesenter AS",
+    "address": "Hinnasvingene 55",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "13",
+    "name": "Stine Wiedswang",
+    "sex": "Kvinne",
+    "age": "41",
+    "company": "Byhaugen Legesenter",
+    "address": "Randabergveien 45",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "17",
+    "name": "Sverre Ove Rise",
+    "sex": "Mann",
+    "age": "66",
+    "company": "Byfjorden Legesenter",
+    "address": "Skogstøstraen 37",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "19",
+    "name": "Syeda Ayesha Riaz",
+    "sex": "Kvinne",
+    "age": "38",
+    "company": "Hinna Legesenter AS",
+    "address": "Boganesveien 10",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "37",
+    "name": "Saadiya Javid",
+    "sex": "Kvinne",
+    "age": "43",
+    "company": "Stavangerdoktoren",
+    "address": "St. Olavs gate 6",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "17",
+    "name": "Thomas Øygarden Bjordal",
+    "sex": "Mann",
+    "age": "38",
+    "company": "St. Olav Legegruppe",
+    "address": "St. Olavsgate 13",
+    "availability": "0"
+  },
+  {
+    "rating": "1.5",
+    "reviewCount": "2",
+    "name": "Thomas Øystein Østvold",
+    "sex": "Mann",
+    "age": "35",
+    "company": "St. Olav Legegruppe",
+    "address": "St. Olavsgate 13",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "15",
+    "name": "Thusjanthy Yogalingam",
+    "sex": "Kvinne",
+    "age": "39",
+    "company": "Stavangerdoktoren",
+    "address": "St. Olavs gate 6",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "21",
+    "name": "Tine Robberstad",
+    "sex": "Kvinne",
+    "age": "40",
+    "company": "Holmen Legesenter",
+    "address": "Nedre Holmegate 30",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "9",
+    "name": "Tord Anton Haaland",
+    "sex": "Mann",
+    "age": "53",
+    "company": "Hillevåg legesenter",
+    "address": "Hillevågsveien 41",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "26",
+    "name": "Tore Hjortland",
+    "sex": "Mann",
+    "age": "54",
+    "company": "Legesenteret Mariero",
+    "address": "Langflåtv 38",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "12",
+    "name": "Trond Høibø",
+    "sex": "Mann",
+    "age": "41",
+    "company": "St. Olav Legegruppe",
+    "address": "St. Olavsgate 13",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "5",
+    "name": "Trygve Gil Bjordal",
+    "sex": "Mann",
+    "age": "37",
+    "company": "Rennesøy legekontor",
+    "address": "Seljebakken 4",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
+    "reviewCount": "23",
+    "name": "Trygve Nesse",
+    "sex": "Mann",
+    "age": "47",
+    "company": "Nytorget Legesenter",
+    "address": "Klubbgata 5 (Arkaden)",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "26",
+    "name": "Vanja Alves",
+    "sex": "Kvinne",
+    "age": "46",
+    "company": "Paradis Legesenter",
+    "address": "Lagårdsveien 73",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "33",
+    "name": "Vedad Drace",
+    "sex": "Mann",
+    "age": "65",
+    "company": "Madlakrossen Legesenter",
+    "address": "Madlamarkveien 2",
+    "availability": "0"
+  },
+  {
+    "rating": "3.5",
+    "reviewCount": "14",
+    "name": "Vegard Løkken Aase",
+    "sex": "Mann",
+    "age": "42",
+    "company": "Vågsmyra Legesenter",
+    "address": "Boganesveien 29",
+    "availability": "0"
+  },
+  {
+    "rating": "5.0",
+    "reviewCount": "2",
+    "name": "Vidar Hodneland",
+    "sex": "Mann",
+    "age": "31",
+    "company": "Vågsmyra Legesenter",
+    "address": "Boganesveien 29",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "36",
+    "name": "William Anthony Tanaruno",
+    "sex": "Mann",
+    "age": "38",
+    "company": "Madlaklinikken AS",
+    "address": "Madlakrossen 9",
+    "availability": "0"
+  },
+  {
+    "rating": "3.0",
+    "reviewCount": "26",
+    "name": "Zbigniew Jan Waldemar Czarnecki",
+    "sex": "Mann",
+    "age": "70",
+    "company": "Madlakrossen Legesenter",
+    "address": "Madlamarkveien 2",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
+    "reviewCount": "20",
+    "name": "Øystein Dale",
+    "sex": "Mann",
+    "age": "68",
+    "company": "Stavanger Legesenter Ø. Dale",
+    "address": "Tastatunet 1-3",
+    "availability": "0"
+  }
+]
