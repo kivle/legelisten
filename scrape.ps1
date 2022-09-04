@@ -20,7 +20,7 @@ function ScrapePage($pageNumber) {
         return
       }
       $rating = $psitem.SelectSingleNode("td[2]/div/a/div/div[1]/span").InnerText.Trim()
-      $reviewCount = $psitem.SelectSingleNode("td[2]/div/a/div/div[3]").InnerText.Replace("vurderinger", "").Trim()
+      $reviewCount = $psitem.SelectSingleNode("td[2]/div/a/div/div[3]").InnerText.Replace("vurderinger", "").Replace("vurdering", "").Trim()
       $name = $psitem.SelectSingleNode("td[3]/span[1]/a").InnerText.Trim()
       $sexAndAge = ($psitem.SelectSingleNode("td[3]/span[2]").InnerText) -split ","
       $sex = $sexAndAge[0].Trim()
