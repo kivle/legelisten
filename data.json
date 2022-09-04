@@ -1,7 +1,7 @@
 [
   {
     "rating": "4.0",
-    "reviewCount": "1 vurdering",
+    "reviewCount": "1",
     "name": "Anita Fjukmoen",
     "sex": "Kvinne",
     "age": "45",
@@ -11,7 +11,7 @@
   },
   {
     "rating": "5.0",
-    "reviewCount": "1 vurdering",
+    "reviewCount": "1",
     "name": "Annbjørg Hegelstad Søreide",
     "sex": "Kvinne",
     "age": "46",
@@ -81,7 +81,7 @@
   },
   {
     "rating": "4.0",
-    "reviewCount": "1 vurdering",
+    "reviewCount": "1",
     "name": "Camilla Sandvik Andersen",
     "sex": "Kvinne",
     "age": "36",
@@ -121,7 +121,7 @@
   },
   {
     "rating": "5.0",
-    "reviewCount": "1 vurdering",
+    "reviewCount": "1",
     "name": "Dan Erik Aronsson",
     "sex": "Mann",
     "age": "38",
@@ -451,7 +451,7 @@
   },
   {
     "rating": "5.0",
-    "reviewCount": "1 vurdering",
+    "reviewCount": "1",
     "name": "Karoline Tyberø",
     "sex": "Kvinne",
     "age": "32",
@@ -651,7 +651,7 @@
   },
   {
     "rating": "5.0",
-    "reviewCount": "1 vurdering",
+    "reviewCount": "1",
     "name": "Marie Solli Slaattebræk",
     "sex": "Kvinne",
     "age": "37",
@@ -834,7 +834,7 @@
     "reviewCount": "23",
     "name": "Paal Andre&#39; Skjærpe",
     "sex": "Mann",
-    "age": "39",
+    "age": "40",
     "company": "Hundvåg legesenter",
     "address": "Hundvågveien 41B",
     "availability": "0"
