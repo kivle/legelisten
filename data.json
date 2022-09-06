@@ -51,10 +51,10 @@
   },
   {
     "rating": "4.5",
-    "reviewCount": "12",
+    "reviewCount": "13",
     "name": "Axel Mauroschat Sund",
     "sex": "Mann",
-    "age": "65",
+    "age": "66",
     "company": "Byfjorden Legesenter",
     "address": "Skogstøstraen 37",
     "availability": "0"
@@ -104,7 +104,7 @@
     "reviewCount": "7",
     "name": "Cato Knutsen",
     "sex": "Mann",
-    "age": "36",
+    "age": "37",
     "company": "Paradis Legesenter",
     "address": "Lagårdsveien 73",
     "availability": "0"
@@ -241,7 +241,7 @@
   },
   {
     "rating": "3.5",
-    "reviewCount": "36",
+    "reviewCount": "37",
     "name": "Geir Jensen Henanger",
     "sex": "Mann",
     "age": "59",
@@ -281,7 +281,7 @@
   },
   {
     "rating": "4.5",
-    "reviewCount": "20",
+    "reviewCount": "21",
     "name": "Harald Bjørnestad",
     "sex": "Mann",
     "age": "63",
@@ -631,7 +631,7 @@
   },
   {
     "rating": "3.5",
-    "reviewCount": "5",
+    "reviewCount": "6",
     "name": "Maria Hege Voktor Borgen",
     "sex": "Kvinne",
     "age": "32",
@@ -640,8 +640,8 @@
     "availability": "0"
   },
   {
-    "rating": "3.0",
-    "reviewCount": "16",
+    "rating": "2.5",
+    "reviewCount": "17",
     "name": "Marianne Sibel Tuncel Bakken",
     "sex": "Kvinne",
     "age": "33",
