@@ -151,6 +151,16 @@
   },
   {
     "rating": "4.0",
+    "reviewCount": "6",
+    "name": "Eirik Lunde Løfsgaard",
+    "sex": "Mann",
+    "age": "34",
+    "company": "Lervig Legekontor",
+    "address": "Ryfylkegata 55",
+    "availability": "0"
+  },
+  {
+    "rating": "4.0",
     "reviewCount": "22",
     "name": "Eirik Viste",
     "sex": "Mann",
@@ -361,7 +371,7 @@
   },
   {
     "rating": "4.5",
-    "reviewCount": "20",
+    "reviewCount": "21",
     "name": "Jacques Honoré",
     "sex": "Mann",
     "age": "67",
@@ -904,7 +914,7 @@
     "reviewCount": "30",
     "name": "Runar Johannessen",
     "sex": "Mann",
-    "age": "48",
+    "age": "49",
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0"
@@ -984,7 +994,7 @@
     "reviewCount": "19",
     "name": "Solveig Hovland",
     "sex": "Kvinne",
-    "age": "43",
+    "age": "44",
     "company": "Hundvåg legesenter",
     "address": "Hundvågveien 41B",
     "availability": "0"
