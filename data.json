@@ -96,7 +96,7 @@
     "sex": "Kvinne",
     "age": "60",
     "company": "Køhler Legesenter",
-    "address": "Langflåtveien 33",
+    "address": "",
     "availability": "0"
   },
   {
@@ -225,8 +225,8 @@
     "name": "Farzana Islam",
     "sex": "Kvinne",
     "age": "38",
-    "company": "Forus Legesenter AS",
-    "address": "Heddeveien 120",
+    "company": "Stavanger Brygge Legesenter",
+    "address": "Lervigsveien 16",
     "availability": "0"
   },
   {
@@ -366,7 +366,7 @@
     "sex": "Mann",
     "age": "64",
     "company": "Køhler Legesenter",
-    "address": "Langflåtveien 33",
+    "address": "",
     "availability": "0"
   },
   {
@@ -416,7 +416,7 @@
     "sex": "Kvinne",
     "age": "40",
     "company": "Køhler Legesenter",
-    "address": "Langflåtveien 33",
+    "address": "",
     "availability": "0"
   },
   {
@@ -524,7 +524,7 @@
     "reviewCount": "11",
     "name": "Laila Frette",
     "sex": "Kvinne",
-    "age": "55",
+    "age": "56",
     "company": "Hillevågsdoktoren AS",
     "address": "Gartnerveien 15",
     "availability": "0"
@@ -636,7 +636,7 @@
     "sex": "Kvinne",
     "age": "67",
     "company": "Køhler Legesenter",
-    "address": "Langflåtveien 33",
+    "address": "",
     "availability": "0"
   },
   {
@@ -1154,7 +1154,7 @@
     "reviewCount": "26",
     "name": "Vanja Alves",
     "sex": "Kvinne",
-    "age": "46",
+    "age": "47",
     "company": "Paradis Legesenter",
     "address": "Lagårdsveien 73",
     "availability": "0"
