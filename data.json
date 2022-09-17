@@ -71,7 +71,7 @@
   },
   {
     "rating": "4.5",
-    "reviewCount": "26",
+    "reviewCount": "27",
     "name": "Camilla Amalie Tufto",
     "sex": "Kvinne",
     "age": "42",
@@ -460,8 +460,8 @@
     "availability": "0"
   },
   {
-    "rating": "5.0",
-    "reviewCount": "1",
+    "rating": "4.5",
+    "reviewCount": "2",
     "name": "Karoline Tyberø",
     "sex": "Kvinne",
     "age": "32",
@@ -921,7 +921,7 @@
   },
   {
     "rating": "4.5",
-    "reviewCount": "34",
+    "reviewCount": "35",
     "name": "Rune Danielsen",
     "sex": "Mann",
     "age": "49",
@@ -1051,7 +1051,7 @@
   },
   {
     "rating": "3.0",
-    "reviewCount": "19",
+    "reviewCount": "20",
     "name": "Syeda Ayesha Riaz",
     "sex": "Kvinne",
     "age": "38",
@@ -1164,7 +1164,7 @@
     "reviewCount": "33",
     "name": "Vedad Drace",
     "sex": "Mann",
-    "age": "65",
+    "age": "66",
     "company": "Madlakrossen Legesenter",
     "address": "Madlamarkveien 2",
     "availability": "0"
