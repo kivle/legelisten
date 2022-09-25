@@ -27,7 +27,13 @@ function ScrapePage($pageNumber) {
       $age = $sexAndAge[1].Replace("år", "").Trim()
       $company = $psitem.SelectSingleNode("td[4]/span[1]/a").InnerText.Trim()
       $address = $psitem.SelectSingleNode("td[4]/span[2]/span").InnerText.Trim()
-      $availability = $psitem.SelectSingleNode("td[6]/button/span/span[2]/span[1]").InnerText.Replace("&nbsp;plasser", "").Trim()
+      $availability = ($psitem.SelectSingleNode("td[6]/button/span/span[2]/span[1]").InnerText.
+                        Replace("&nbsp;plasser", "").
+                        Replace("ledige&nbsp;plasser", "").
+                        Replace("ledige plasser", "").
+                        Replace("Venteliste", "0").
+                        Trim()
+      )
 
       [pscustomobject]@{
         rating=$rating;
@@ -57,5 +63,7 @@ while($true) {
   $page += 1
 }
 
-$json = $all | sort-object { $psitem.name } | convertto-json -depth 10
-$json > "data.json"
+if ($all.Count -gt 0) {
+  $json = $all | sort-object { $psitem.name } | convertto-json -depth 10
+  $json > "data.json"
+}
