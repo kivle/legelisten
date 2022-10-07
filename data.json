@@ -280,6 +280,16 @@
     "availability": "0"
   },
   {
+    "rating": "4.5",
+    "reviewCount": "5",
+    "name": "Henriette Benjamin Steinnes",
+    "sex": "Kvinne",
+    "age": "30",
+    "company": "Finnøy Legekontor",
+    "address": "Judabergvegen 6",
+    "availability": "0"
+  },
+  {
     "rating": "4.0",
     "reviewCount": "14",
     "name": "Hosea Binyam",
@@ -591,7 +601,7 @@
   },
   {
     "rating": "2.5",
-    "reviewCount": "17",
+    "reviewCount": "18",
     "name": "Marianne Sibel Tuncel Bakken",
     "sex": "Kvinne",
     "age": "33",
@@ -747,16 +757,6 @@
     "age": "58",
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
-    "availability": "0"
-  },
-  {
-    "rating": "4.5",
-    "reviewCount": "5",
-    "name": "Oda Henriette Benjamin Reite",
-    "sex": "Kvinne",
-    "age": "30",
-    "company": "Finnøy Legekontor",
-    "address": "Judabergvegen 6",
     "availability": "0"
   },
   {
