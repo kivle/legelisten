@@ -611,7 +611,7 @@
   },
   {
     "rating": "5.0",
-    "reviewCount": "1",
+    "reviewCount": "2",
     "name": "Marie Solli Slaattebræk",
     "sex": "Kvinne",
     "age": "37",
@@ -907,16 +907,6 @@
     "age": "44",
     "company": "Hundvåg legesenter",
     "address": "Hundvågveien 41B",
-    "availability": "0"
-  },
-  {
-    "rating": "5.0",
-    "reviewCount": "7",
-    "name": "Steven David Gang&#39;ai",
-    "sex": "Mann",
-    "age": "32",
-    "company": "Byhaugen Legesenter",
-    "address": "Randabergveien 45",
     "availability": "0"
   },
   {
