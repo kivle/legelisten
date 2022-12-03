@@ -391,6 +391,16 @@
   },
   {
     "rating": "4.5",
+    "reviewCount": "9",
+    "name": "Julie Olimstad",
+    "sex": "Kvinne",
+    "age": "36",
+    "company": "Stavangerdoktoren",
+    "address": "St. Olavs gate 6",
+    "availability": "0"
+  },
+  {
+    "rating": "4.5",
     "reviewCount": "17",
     "name": "Karen Christensen",
     "sex": "Kvinne",
