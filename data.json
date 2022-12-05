@@ -241,7 +241,7 @@
   },
   {
     "rating": "3.5",
-    "reviewCount": "16",
+    "reviewCount": "17",
     "name": "Hamed Al-Gebory",
     "sex": "Mann",
     "age": "52",
@@ -371,7 +371,7 @@
   },
   {
     "rating": "2.5",
-    "reviewCount": "32",
+    "reviewCount": "33",
     "name": "Jan Robert Johannessen",
     "sex": "Mann",
     "age": "51",
@@ -627,6 +627,16 @@
     "age": "37",
     "company": "St. Olav Legegruppe",
     "address": "St. Olavsgate 13",
+    "availability": "0"
+  },
+  {
+    "rating": "2.0",
+    "reviewCount": "28",
+    "name": "Mario Jorge Rodrigues Pereira",
+    "sex": "Mann",
+    "age": "61",
+    "company": "Madlakrossen Legesenter",
+    "address": "Madlamarkveien 2",
     "availability": "0"
   },
   {
