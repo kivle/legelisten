@@ -64,7 +64,6 @@ function ScrapePage($pageNumber) {
                         Trim()
           )
         }
-        Start-Sleep -Seconds 1
       }
 
       [pscustomobject]@{
