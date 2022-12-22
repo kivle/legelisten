@@ -49,10 +49,12 @@ function ScrapePage($pageNumber) {
                         Trim()
       )
 
+      $link = "n/a"
       $waitingList = "n/a"
       if ($linkNode -and $linkNode.Attributes["href"]) {
         $link = $linkNode.Attributes["href"].Value
-        $doc2 = GetUrl "$baseUrl2$link"
+        $link = "$baseUrl2$link"
+        $doc2 = GetUrl $link
         $waitingListLabel = $doc2.SelectNodes("/html/body/main/section[1]/div/div[2]/div/div/h3[text() = 'Venteliste']")
         if ($waitingListLabel) {
           $waitingList = ($waitingListLabel.ParentNode.ParentNode.SelectSingleNode("div[2]").InnerText.
@@ -75,6 +77,7 @@ function ScrapePage($pageNumber) {
         address=$address;
         availability=$availability;
         waitingList=$waitingList;
+        link=$link;
       }
     }
     catch {}
