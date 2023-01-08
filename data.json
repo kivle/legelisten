@@ -140,7 +140,7 @@
     "company": "Legekontor Dr. Østhus",
     "address": "Kannikbakken 6",
     "availability": "0",
-    "waitingList": "24",
+    "waitingList": "25",
     "link": "https://www.legelisten.no/leger/2626-dag-rune-osthus"
   },
   {
@@ -356,7 +356,7 @@
     "company": "Stavanger Legesenter Al-Gebory",
     "address": "Lagårdsveien 91",
     "availability": "0",
-    "waitingList": "16",
+    "waitingList": "15",
     "link": "https://www.legelisten.no/leger/18254-hamed-al-gebory"
   },
   {
@@ -380,7 +380,7 @@
     "company": "Holmen Legesenter",
     "address": "Nedre Holmegate 30",
     "availability": "0",
-    "waitingList": "65",
+    "waitingList": "66",
     "link": "https://www.legelisten.no/leger/2434-hege-hoivik"
   },
   {
@@ -428,7 +428,7 @@
     "company": "Hafrsfjord legesenter AS",
     "address": "Madlakrossen 25",
     "availability": "0",
-    "waitingList": "294",
+    "waitingList": "293",
     "link": "https://www.legelisten.no/leger/24680-ina-jacobsen"
   },
   {
@@ -548,7 +548,7 @@
     "company": "Madlakrossen Legesenter",
     "address": "Madlamarkveien 2",
     "availability": "",
-    "waitingList": "13",
+    "waitingList": "15",
     "link": "https://www.legelisten.no/leger/27492-kai-kronfeldt"
   },
   {
@@ -632,7 +632,7 @@
     "company": "Øyane Legesenter",
     "address": "Austbøsletta 5",
     "availability": "0",
-    "waitingList": "92",
+    "waitingList": "95",
     "link": "https://www.legelisten.no/leger/2349-konstanse-aslaug-sandvik-devold"
   },
   {
@@ -680,7 +680,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "63",
+    "waitingList": "62",
     "link": "https://www.legelisten.no/leger/2340-lars-peter-christersson"
   },
   {
@@ -712,7 +712,7 @@
     "reviewCount": "8",
     "name": "Line Nyman Rogneflåten",
     "sex": "Kvinne",
-    "age": "46",
+    "age": "47",
     "company": "Hinnatrekanten Legesenter AS",
     "address": "Hinnasvingene 55",
     "availability": "0",
@@ -764,7 +764,7 @@
     "company": "Rennesøy legekontor",
     "address": "Seljebakken 4",
     "availability": "0",
-    "waitingList": "9",
+    "waitingList": "10",
     "link": "https://www.legelisten.no/leger/2354-lise-heidi-vaaland-dybdahl"
   },
   {
@@ -776,7 +776,7 @@
     "company": "Stokka legesenter",
     "address": "Øvre Stokkavei 46",
     "availability": "0",
-    "waitingList": "150",
+    "waitingList": "151",
     "link": "https://www.legelisten.no/leger/2919-lynn-merethe-oppedal"
   },
   {
@@ -788,7 +788,7 @@
     "company": "Legesenteret Mariero",
     "address": "Langflåtv 38",
     "availability": "0",
-    "waitingList": "46",
+    "waitingList": "47",
     "link": "https://www.legelisten.no/leger/2624-magne-sigbjorn-okland"
   },
   {
@@ -812,7 +812,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "82",
+    "waitingList": "83",
     "link": "https://www.legelisten.no/leger/23768-maria-hege-voktor-borgen"
   },
   {
@@ -824,7 +824,7 @@
     "company": "Klubbgaten Legesenter",
     "address": "Klubbgaten 1",
     "availability": "0",
-    "waitingList": "19",
+    "waitingList": "20",
     "link": "https://www.legelisten.no/leger/23067-marianne-sibel-tuncel-bakken"
   },
   {
@@ -860,7 +860,7 @@
     "company": "Madlakrossen Legesenter",
     "address": "Madlamarkveien 2",
     "availability": "0",
-    "waitingList": "85",
+    "waitingList": "86",
     "link": "https://www.legelisten.no/leger/2304-marit-bergem-apeland"
   },
   {
@@ -932,7 +932,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "22",
+    "waitingList": "23",
     "link": "https://www.legelisten.no/leger/4544-mojtaba-ershadi"
   },
   {
@@ -944,7 +944,7 @@
     "company": "Finnøy Legekontor",
     "address": "Judabergvegen 6",
     "availability": "",
-    "waitingList": "5",
+    "waitingList": "6",
     "link": "https://www.legelisten.no/leger/2426-morten-hovdet"
   },
   {
@@ -1004,7 +1004,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "2",
+    "waitingList": "3",
     "link": "https://www.legelisten.no/leger/2435-norman-isaac-evbinmaharia-idehen"
   },
   {
@@ -1016,7 +1016,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "0",
+    "waitingList": "3",
     "link": "https://www.legelisten.no/leger/24597-nyantakyi-baffour-yeboah"
   },
   {
@@ -1112,7 +1112,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "",
-    "waitingList": "22",
+    "waitingList": "23",
     "link": "https://www.legelisten.no/leger/27500-preben-ogne"
   },
   {
@@ -1220,7 +1220,7 @@
     "company": "Hinnatrekanten Legesenter AS",
     "address": "Hinnasvingene 55",
     "availability": "0",
-    "waitingList": "263",
+    "waitingList": "262",
     "link": "https://www.legelisten.no/leger/6655-silje-seglem-heggheim"
   },
   {
@@ -1232,7 +1232,7 @@
     "company": "Hundvåg legesenter",
     "address": "Hundvågveien 41B",
     "availability": "0",
-    "waitingList": "165",
+    "waitingList": "164",
     "link": "https://www.legelisten.no/leger/2428-solveig-hovland"
   },
   {
@@ -1292,7 +1292,7 @@
     "company": "Øyane Legesenter",
     "address": "Austbøsletta 5",
     "availability": "",
-    "waitingList": "21",
+    "waitingList": "22",
     "link": "https://www.legelisten.no/leger/27494-sunniva-lode-roscoe"
   },
   {
@@ -1300,7 +1300,7 @@
     "reviewCount": "18",
     "name": "Sverre Ove Rise",
     "sex": "Mann",
-    "age": "66",
+    "age": "67",
     "company": "Byfjorden Legesenter",
     "address": "Skogstøstraen 37",
     "availability": "0",
@@ -1472,7 +1472,7 @@
     "company": "Vågsmyra Legesenter",
     "address": "Boganesveien 29",
     "availability": "0",
-    "waitingList": "65",
+    "waitingList": "62",
     "link": "https://www.legelisten.no/leger/25456-vidar-hodneland"
   },
   {
