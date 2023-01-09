@@ -128,7 +128,7 @@
     "company": "Elixir AS",
     "address": "Lagårdsveien 91",
     "availability": "0",
-    "waitingList": "16",
+    "waitingList": "17",
     "link": "https://www.legelisten.no/leger/24552-cato-knutsen"
   },
   {
@@ -269,10 +269,10 @@
     "name": "Espen Stangeland",
     "sex": "Mann",
     "age": "50",
-    "company": "Legekontorene Skagen 12",
-    "address": "Legekontorene Skagen 12",
+    "company": "Legekontorene Skagen AS",
+    "address": "Legekontorene Skagen As",
     "availability": "0",
-    "waitingList": "11",
+    "waitingList": "13",
     "link": "https://www.legelisten.no/leger/2561-espen-stangeland"
   },
   {
@@ -356,7 +356,7 @@
     "company": "Stavanger Legesenter Al-Gebory",
     "address": "Lagårdsveien 91",
     "availability": "0",
-    "waitingList": "15",
+    "waitingList": "16",
     "link": "https://www.legelisten.no/leger/18254-hamed-al-gebory"
   },
   {
@@ -428,7 +428,7 @@
     "company": "Hafrsfjord legesenter AS",
     "address": "Madlakrossen 25",
     "availability": "0",
-    "waitingList": "293",
+    "waitingList": "292",
     "link": "https://www.legelisten.no/leger/24680-ina-jacobsen"
   },
   {
@@ -452,7 +452,7 @@
     "company": "Hinna Legesenter AS",
     "address": "Boganesveien 10",
     "availability": "0",
-    "waitingList": "20",
+    "waitingList": "23",
     "link": "https://www.legelisten.no/leger/6684-irene-berchy-luoga"
   },
   {
@@ -536,7 +536,7 @@
     "company": "Stavangerdoktoren",
     "address": "St. Olavs gate 6",
     "availability": "0",
-    "waitingList": "60",
+    "waitingList": "61",
     "link": "https://www.legelisten.no/leger/17836-julie-olimstad"
   },
   {
@@ -596,7 +596,7 @@
     "company": "Hillevågsdoktoren AS",
     "address": "Gartnerveien 15",
     "availability": "0",
-    "waitingList": "88",
+    "waitingList": "89",
     "link": "https://www.legelisten.no/leger/23751-karoline-tybero"
   },
   {
@@ -680,7 +680,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "62",
+    "waitingList": "61",
     "link": "https://www.legelisten.no/leger/2340-lars-peter-christersson"
   },
   {
@@ -704,7 +704,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "143",
+    "waitingList": "142",
     "link": "https://www.legelisten.no/leger/2341-line-cecilie-moller-christiansen"
   },
   {
@@ -817,7 +817,7 @@
   },
   {
     "rating": "2.5",
-    "reviewCount": "21",
+    "reviewCount": "22",
     "name": "Marianne Sibel Tuncel Bakken",
     "sex": "Kvinne",
     "age": "34",
@@ -893,8 +893,8 @@
     "name": "Mats Stangeland",
     "sex": "Mann",
     "age": "44",
-    "company": "Legekontorene Skagen 12",
-    "address": "Legekontorene Skagen 12",
+    "company": "Legekontorene Skagen AS",
+    "address": "Legekontorene Skagen As",
     "availability": "0",
     "waitingList": "24",
     "link": "https://www.legelisten.no/leger/2562-mats-stangeland"
@@ -1004,7 +1004,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "3",
+    "waitingList": "4",
     "link": "https://www.legelisten.no/leger/2435-norman-isaac-evbinmaharia-idehen"
   },
   {
@@ -1088,7 +1088,7 @@
     "company": "Byhaugen Legesenter",
     "address": "Randabergveien 45",
     "availability": "0",
-    "waitingList": "46",
+    "waitingList": "47",
     "link": "https://www.legelisten.no/leger/6654-petter-enoksen"
   },
   {
@@ -1256,7 +1256,7 @@
     "company": "Nytorget Legesenter",
     "address": "Nytorget Legesenter Klubbgata 5 (Arkaden)",
     "availability": "0",
-    "waitingList": "42",
+    "waitingList": "44",
     "link": "https://www.legelisten.no/leger/2474-stian-ellingsen-lobben"
   },
   {
@@ -1448,7 +1448,7 @@
     "company": "Madlakrossen Legesenter",
     "address": "Madlamarkveien 2",
     "availability": "0",
-    "waitingList": "3",
+    "waitingList": "4",
     "link": "https://www.legelisten.no/leger/2352-vedad-drace"
   },
   {
