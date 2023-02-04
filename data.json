@@ -68,7 +68,7 @@
     "company": "Byfjorden Legesenter",
     "address": "Skogstøstraen 37",
     "availability": "0",
-    "waitingList": "22",
+    "waitingList": "23",
     "link": "https://www.legelisten.no/leger/2573-axel-mauroschat-sund"
   },
   {
@@ -140,7 +140,7 @@
     "company": "Legekontor Dr. Østhus",
     "address": "Kannikbakken 6",
     "availability": "0",
-    "waitingList": "29",
+    "waitingList": "28",
     "link": "https://www.legelisten.no/leger/2626-dag-rune-osthus"
   },
   {
@@ -164,7 +164,7 @@
     "company": "Hillevåg legesenter",
     "address": "Hillevågsveien 41",
     "availability": "0",
-    "waitingList": "64",
+    "waitingList": "53",
     "link": "https://www.legelisten.no/leger/21661-egil-bjorlow"
   },
   {
@@ -284,7 +284,7 @@
     "company": "Stavanger Brygge Legesenter",
     "address": "Lervigsveien 16",
     "availability": "",
-    "waitingList": "n/a",
+    "waitingList": "0",
     "link": "https://www.legelisten.no/leger/24952-farzana-islam"
   },
   {
@@ -356,7 +356,7 @@
     "company": "Stavanger Legesenter Al-Gebory",
     "address": "Lagårdsveien 91",
     "availability": "0",
-    "waitingList": "11",
+    "waitingList": "12",
     "link": "https://www.legelisten.no/leger/18254-hamed-al-gebory"
   },
   {
@@ -512,7 +512,7 @@
     "company": "Hinnatrekanten Legesenter AS",
     "address": "Hinnasvingene 55",
     "availability": "0",
-    "waitingList": "32",
+    "waitingList": "33",
     "link": "https://www.legelisten.no/leger/2441-jan-robert-johannessen"
   },
   {
@@ -524,7 +524,7 @@
     "company": "Køhler Legesenter",
     "address": "",
     "availability": "0",
-    "waitingList": "110",
+    "waitingList": "114",
     "link": "https://www.legelisten.no/leger/13905-julie-ellingsen-hustad"
   },
   {
@@ -536,7 +536,7 @@
     "company": "Stavangerdoktoren",
     "address": "St. Olavs gate 6",
     "availability": "0",
-    "waitingList": "49",
+    "waitingList": "52",
     "link": "https://www.legelisten.no/leger/17836-julie-olimstad"
   },
   {
@@ -548,7 +548,7 @@
     "company": "Madlakrossen Legesenter",
     "address": "Madlamarkveien 2",
     "availability": "",
-    "waitingList": "2",
+    "waitingList": "6",
     "link": "https://www.legelisten.no/leger/27492-kai-kronfeldt"
   },
   {
@@ -584,7 +584,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "39",
+    "waitingList": "40",
     "link": "https://www.legelisten.no/leger/2510-kari-tau-strand-oanes"
   },
   {
@@ -752,7 +752,7 @@
     "company": "Legesenteret Mariero",
     "address": "Langflåtv 38",
     "availability": "0",
-    "waitingList": "77",
+    "waitingList": "76",
     "link": "https://www.legelisten.no/leger/2623-lisbeth-okland"
   },
   {
@@ -788,7 +788,7 @@
     "company": "Legesenteret Mariero",
     "address": "Langflåtv 38",
     "availability": "0",
-    "waitingList": "46",
+    "waitingList": "47",
     "link": "https://www.legelisten.no/leger/2624-magne-sigbjorn-okland"
   },
   {
@@ -796,7 +796,7 @@
     "reviewCount": "17",
     "name": "Margaret Oshaug",
     "sex": "Kvinne",
-    "age": "67",
+    "age": "68",
     "company": "Køhler Legesenter",
     "address": "",
     "availability": "0",
@@ -823,8 +823,8 @@
     "age": "34",
     "company": "Klubbgaten Legesenter",
     "address": "Klubbgaten 1",
-    "availability": "0",
-    "waitingList": "6",
+    "availability": "",
+    "waitingList": "n/a",
     "link": "https://www.legelisten.no/leger/23067-marianne-sibel-tuncel-bakken"
   },
   {
@@ -836,7 +836,7 @@
     "company": "St. Olav Legegruppe",
     "address": "St. Olavsgate 13",
     "availability": "0",
-    "waitingList": "85",
+    "waitingList": "86",
     "link": "https://www.legelisten.no/leger/24269-marie-solli-slaattebraek"
   },
   {
@@ -992,7 +992,7 @@
     "company": "Hundvåg legesenter",
     "address": "Hundvågveien 41B",
     "availability": "0",
-    "waitingList": "107",
+    "waitingList": "110",
     "link": "https://www.legelisten.no/leger/18372-nina-kallevik"
   },
   {
@@ -1112,7 +1112,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "",
-    "waitingList": "31",
+    "waitingList": "30",
     "link": "https://www.legelisten.no/leger/27500-preben-ogne"
   },
   {
@@ -1124,7 +1124,7 @@
     "company": "Tasta legesenter",
     "address": "Tastatunet 1-3",
     "availability": "0",
-    "waitingList": "38",
+    "waitingList": "39",
     "link": "https://www.legelisten.no/leger/22767-prince-johnson"
   },
   {
@@ -1268,7 +1268,7 @@
     "company": "Hinnatrekanten Legesenter AS",
     "address": "Hinnasvingene 55",
     "availability": "0",
-    "waitingList": "378",
+    "waitingList": "386",
     "link": "https://www.legelisten.no/leger/2565-stig-david-stendahl"
   },
   {
@@ -1376,7 +1376,7 @@
     "company": "Hillevåg legesenter",
     "address": "Hillevågsveien 41",
     "availability": "0",
-    "waitingList": "82",
+    "waitingList": "73",
     "link": "https://www.legelisten.no/leger/2380-tord-anton-haaland"
   },
   {
