@@ -79,8 +79,8 @@
     "age": "42",
     "company": "Stavangerdoktoren",
     "address": "St. Olavs gate 6",
-    "availability": "",
-    "waitingList": "n/a",
+    "availability": "0",
+    "waitingList": "0",
     "link": "https://www.legelisten.no/leger/17788-bjarte-sandve-helgoy"
   },
   {
@@ -92,7 +92,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "166",
+    "waitingList": "165",
     "link": "https://www.legelisten.no/leger/14143-camilla-amalie-tufto"
   },
   {
@@ -128,7 +128,7 @@
     "company": "Dr. Knutsen legekontor",
     "address": "Lagårdsveien 91",
     "availability": "0",
-    "waitingList": "9",
+    "waitingList": "10",
     "link": "https://www.legelisten.no/leger/24552-cato-knutsen"
   },
   {
@@ -152,7 +152,7 @@
     "company": "Klubbgaten Legesenter",
     "address": "Klubbgaten 1",
     "availability": "0",
-    "waitingList": "41",
+    "waitingList": "42",
     "link": "https://www.legelisten.no/leger/24190-dan-erik-aronsson"
   },
   {
@@ -164,7 +164,7 @@
     "company": "Hillevåg legesenter",
     "address": "Hillevågsveien 41",
     "availability": "0",
-    "waitingList": "54",
+    "waitingList": "53",
     "link": "https://www.legelisten.no/leger/21661-egil-bjorlow"
   },
   {
@@ -260,7 +260,7 @@
     "company": "Bekkefaret Legesenter",
     "address": "Torgveien 15 C",
     "availability": "0",
-    "waitingList": "104",
+    "waitingList": "102",
     "link": "https://www.legelisten.no/leger/22313-espen-grimstad"
   },
   {
@@ -332,7 +332,7 @@
     "company": "Øyane Legesenter",
     "address": "Austbøsletta 5",
     "availability": "0",
-    "waitingList": "198",
+    "waitingList": "197",
     "link": "https://www.legelisten.no/leger/2492-guro-gjesdal-michelsen"
   },
   {
@@ -416,7 +416,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "2",
+    "waitingList": "3",
     "link": "https://www.legelisten.no/leger/15293-hosea-binyam"
   },
   {
@@ -428,7 +428,7 @@
     "company": "Hafrsfjord legesenter AS",
     "address": "Madlakrossen 25",
     "availability": "0",
-    "waitingList": "282",
+    "waitingList": "283",
     "link": "https://www.legelisten.no/leger/24680-ina-jacobsen"
   },
   {
@@ -452,7 +452,7 @@
     "company": "Hinna Legesenter AS",
     "address": "Boganesveien 10",
     "availability": "0",
-    "waitingList": "3",
+    "waitingList": "4",
     "link": "https://www.legelisten.no/leger/6684-irene-berchy-luoga"
   },
   {
@@ -556,7 +556,7 @@
     "reviewCount": "27",
     "name": "Kåre Reiten",
     "sex": "Mann",
-    "age": "67",
+    "age": "68",
     "company": "Holmen Legesenter",
     "address": "Nedre Holmegate 30",
     "availability": "",
@@ -596,7 +596,7 @@
     "company": "Hillevågsdoktoren AS",
     "address": "Gartnerveien 15",
     "availability": "0",
-    "waitingList": "87",
+    "waitingList": "88",
     "link": "https://www.legelisten.no/leger/23751-karoline-tybero"
   },
   {
@@ -668,7 +668,7 @@
     "company": "Hillevågsdoktoren AS",
     "address": "Gartnerveien 15",
     "availability": "0",
-    "waitingList": "101",
+    "waitingList": "100",
     "link": "https://www.legelisten.no/leger/2369-laila-frette"
   },
   {
@@ -692,7 +692,7 @@
     "company": "Stavangerdoktoren",
     "address": "St. Olavs gate 6",
     "availability": "0",
-    "waitingList": "55",
+    "waitingList": "56",
     "link": "https://www.legelisten.no/leger/2442-lene-sunniva-kvam-johannessen"
   },
   {
@@ -716,7 +716,7 @@
     "company": "Hinnatrekanten Legesenter AS",
     "address": "Hinnasvingene 55",
     "availability": "0",
-    "waitingList": "135",
+    "waitingList": "134",
     "link": "https://www.legelisten.no/leger/2535-line-nyman-rogneflaten"
   },
   {
@@ -824,7 +824,7 @@
     "company": "Klubbgaten Legesenter",
     "address": "Klubbgaten 1",
     "availability": "0",
-    "waitingList": "10",
+    "waitingList": "11",
     "link": "https://www.legelisten.no/leger/23067-marianne-sibel-tuncel-bakken"
   },
   {
@@ -896,7 +896,7 @@
     "company": "Legekontorene Skagen AS",
     "address": "Legekontorene Skagen As",
     "availability": "0",
-    "waitingList": "26",
+    "waitingList": "29",
     "link": "https://www.legelisten.no/leger/2562-mats-stangeland"
   },
   {
@@ -956,7 +956,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "90",
+    "waitingList": "88",
     "link": "https://www.legelisten.no/leger/4293-morten-munkvik"
   },
   {
@@ -980,7 +980,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "88",
+    "waitingList": "89",
     "link": "https://www.legelisten.no/leger/2293-nachaat-aboujamous"
   },
   {
@@ -1100,7 +1100,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "113",
+    "waitingList": "116",
     "link": "https://www.legelisten.no/leger/14142-pia-skoglund"
   },
   {
@@ -1144,7 +1144,7 @@
     "reviewCount": "36",
     "name": "Rune Danielsen",
     "sex": "Mann",
-    "age": "49",
+    "age": "50",
     "company": "Paradis Legesenter",
     "address": "Lagårdsveien 73",
     "availability": "0",
@@ -1364,7 +1364,7 @@
     "company": "Holmen Legesenter",
     "address": "Nedre Holmegate 30",
     "availability": "0",
-    "waitingList": "74",
+    "waitingList": "75",
     "link": "https://www.legelisten.no/leger/21464-tine-robberstad"
   },
   {
@@ -1472,7 +1472,7 @@
     "company": "Vågsmyra Legesenter",
     "address": "Boganesveien 29",
     "availability": "0",
-    "waitingList": "38",
+    "waitingList": "41",
     "link": "https://www.legelisten.no/leger/25456-vidar-hodneland"
   },
   {
@@ -1483,8 +1483,8 @@
     "age": "38",
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
-    "availability": "",
-    "waitingList": "n/a",
+    "availability": "0",
+    "waitingList": "0",
     "link": "https://www.legelisten.no/leger/14017-william-anthony-tanaruno"
   }
 ]
