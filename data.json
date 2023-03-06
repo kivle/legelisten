@@ -151,7 +151,7 @@
     "age": "34",
     "company": "Øyane Legesenter",
     "address": "Austbøsletta 5",
-    "availability": "",
+    "availability": "0",
     "waitingList": "0",
     "link": "https://www.legelisten.no/leger/29686-cecilie-ekrem-tveit"
   },
@@ -212,7 +212,7 @@
     "company": "Lervig Legekontor",
     "address": "Ryfylkegata 55",
     "availability": "0",
-    "waitingList": "23",
+    "waitingList": "24",
     "link": "https://www.legelisten.no/leger/21875-eirik-lunde-lofsgaard"
   },
   {
@@ -295,7 +295,7 @@
     "age": "50",
     "company": "Legekontorene Skagen AS",
     "address": "Legekontorene Skagen As",
-    "availability": "",
+    "availability": "0",
     "waitingList": "0",
     "link": "https://www.legelisten.no/leger/2561-espen-stangeland"
   },
@@ -308,7 +308,7 @@
     "company": "Stavanger Brygge Legesenter",
     "address": "Lervigsveien 16",
     "availability": "0",
-    "waitingList": "4",
+    "waitingList": "6",
     "link": "https://www.legelisten.no/leger/24952-farzana-islam"
   },
   {
@@ -320,7 +320,7 @@
     "company": "Rennesøy legekontor",
     "address": "Seljebakken 4",
     "availability": "0",
-    "waitingList": "14",
+    "waitingList": "15",
     "link": "https://www.legelisten.no/leger/2331-frank-thomas-brodscholl"
   },
   {
@@ -433,7 +433,7 @@
   },
   {
     "rating": "3.5",
-    "reviewCount": "15",
+    "reviewCount": "16",
     "name": "Hosea Binyam",
     "sex": "Mann",
     "age": "37",
@@ -476,7 +476,7 @@
     "company": "Hinna Legesenter AS",
     "address": "Boganesveien 10",
     "availability": "0",
-    "waitingList": "0",
+    "waitingList": "4",
     "link": "https://www.legelisten.no/leger/6684-irene-berchy-luoga"
   },
   {
@@ -560,7 +560,7 @@
     "company": "Stavangerdoktoren",
     "address": "St. Olavs gate 6",
     "availability": "0",
-    "waitingList": "13",
+    "waitingList": "16",
     "link": "https://www.legelisten.no/leger/17836-julie-olimstad"
   },
   {
@@ -649,7 +649,7 @@
   },
   {
     "rating": "4.0",
-    "reviewCount": "18",
+    "reviewCount": "19",
     "name": "Konstanse Aslaug Sandvik Devold",
     "sex": "Kvinne",
     "age": "48",
@@ -788,7 +788,7 @@
     "company": "Legesenteret Mariero",
     "address": "Langflåtv 38",
     "availability": "0",
-    "waitingList": "75",
+    "waitingList": "76",
     "link": "https://www.legelisten.no/leger/2623-lisbeth-okland"
   },
   {
@@ -908,7 +908,7 @@
     "company": "Storhaug Legesenter DA",
     "address": "Klubbgata 1",
     "availability": "0",
-    "waitingList": "62",
+    "waitingList": "63",
     "link": "https://www.legelisten.no/leger/2539-marit-gullaksen-ronning"
   },
   {
@@ -1016,7 +1016,7 @@
     "company": "Byhaugen Legesenter",
     "address": "Randabergveien 45",
     "availability": "0",
-    "waitingList": "151",
+    "waitingList": "154",
     "link": "https://www.legelisten.no/leger/21517-moyfrid-muller"
   },
   {
@@ -1033,7 +1033,7 @@
   },
   {
     "rating": "5.0",
-    "reviewCount": "3",
+    "reviewCount": "4",
     "name": "Nina Kallevik",
     "sex": "Kvinne",
     "age": "41",
@@ -1052,7 +1052,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "0",
+    "waitingList": "5",
     "link": "https://www.legelisten.no/leger/2435-norman-isaac-evbinmaharia-idehen"
   },
   {
@@ -1124,7 +1124,7 @@
     "company": "Hinna Legekontor",
     "address": "Kari Lofthusgate 16",
     "availability": "0",
-    "waitingList": "36",
+    "waitingList": "35",
     "link": "https://www.legelisten.no/leger/2379-per-tonning-haaland"
   },
   {
@@ -1268,7 +1268,7 @@
     "company": "Hinnatrekanten Legesenter AS",
     "address": "Hinnasvingene 55",
     "availability": "0",
-    "waitingList": "251",
+    "waitingList": "252",
     "link": "https://www.legelisten.no/leger/6655-silje-seglem-heggheim"
   },
   {
@@ -1357,7 +1357,7 @@
   },
   {
     "rating": "4.0",
-    "reviewCount": "18",
+    "reviewCount": "19",
     "name": "Sverre Ove Rise",
     "sex": "Mann",
     "age": "67",
@@ -1424,7 +1424,7 @@
     "company": "Holmen Legesenter",
     "address": "Nedre Holmegate 30",
     "availability": "0",
-    "waitingList": "79",
+    "waitingList": "78",
     "link": "https://www.legelisten.no/leger/21464-tine-robberstad"
   },
   {
