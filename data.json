@@ -32,7 +32,7 @@
     "company": "Tjensvoll legesenter",
     "address": "Tjensvolltorget 4",
     "availability": "0",
-    "waitingList": "209",
+    "waitingList": "210",
     "link": "https://www.legelisten.no/leger/17462-anne-hegelstad-bielak"
   },
   {
@@ -91,8 +91,8 @@
     "age": "43",
     "company": "Stavangerdoktoren",
     "address": "St. Olavs gate 6",
-    "availability": "0",
-    "waitingList": "8",
+    "availability": "",
+    "waitingList": "n/a",
     "link": "https://www.legelisten.no/leger/17788-bjarte-sandve-helgoy"
   },
   {
@@ -116,7 +116,7 @@
     "company": "Legesenteret Mariero",
     "address": "Langflåtv 38",
     "availability": "0",
-    "waitingList": "99",
+    "waitingList": "98",
     "link": "https://www.legelisten.no/leger/23892-camilla-sandvik-andersen"
   },
   {
@@ -152,7 +152,7 @@
     "company": "Øyane Legesenter",
     "address": "Austbøsletta 5",
     "availability": "0",
-    "waitingList": "1 person",
+    "waitingList": "2",
     "link": "https://www.legelisten.no/leger/29686-cecilie-ekrem-tveit"
   },
   {
@@ -164,7 +164,7 @@
     "company": "Legekontor Dr. Østhus",
     "address": "Kannikbakken 6",
     "availability": "0",
-    "waitingList": "26",
+    "waitingList": "25",
     "link": "https://www.legelisten.no/leger/2626-dag-rune-osthus"
   },
   {
@@ -188,7 +188,7 @@
     "company": "Hillevåg legesenter",
     "address": "Hillevågsveien 41",
     "availability": "0",
-    "waitingList": "45",
+    "waitingList": "46",
     "link": "https://www.legelisten.no/leger/21661-egil-bjorlow"
   },
   {
@@ -284,7 +284,7 @@
     "company": "Bekkefaret Legesenter",
     "address": "Torgveien 15 C",
     "availability": "0",
-    "waitingList": "105",
+    "waitingList": "107",
     "link": "https://www.legelisten.no/leger/22313-espen-grimstad"
   },
   {
@@ -379,8 +379,8 @@
     "age": "52",
     "company": "Stavanger Legesenter Al-Gebory",
     "address": "Lagårdsveien 91",
-    "availability": "",
-    "waitingList": "0",
+    "availability": "0",
+    "waitingList": "1 person",
     "link": "https://www.legelisten.no/leger/18254-hamed-al-gebory"
   },
   {
@@ -392,7 +392,7 @@
     "company": "Storhaug Legesenter DA",
     "address": "Klubbgata 1",
     "availability": "0",
-    "waitingList": "29",
+    "waitingList": "27",
     "link": "https://www.legelisten.no/leger/2324-harald-bjornestad"
   },
   {
@@ -412,7 +412,7 @@
     "reviewCount": "13",
     "name": "Hege Svangtun",
     "sex": "Kvinne",
-    "age": "43",
+    "age": "44",
     "company": "Bekkefaret Legesenter",
     "address": "Torgveien 15 C",
     "availability": "0",
@@ -440,7 +440,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "7",
+    "waitingList": "8",
     "link": "https://www.legelisten.no/leger/15293-hosea-binyam"
   },
   {
@@ -464,7 +464,7 @@
     "company": "Hinna Legesenter AS",
     "address": "Boganesveien 10",
     "availability": "0",
-    "waitingList": "131",
+    "waitingList": "132",
     "link": "https://www.legelisten.no/leger/24156-inger-marie-godeseth"
   },
   {
@@ -548,7 +548,7 @@
     "company": "Køhler Legesenter",
     "address": "",
     "availability": "0",
-    "waitingList": "114",
+    "waitingList": "112",
     "link": "https://www.legelisten.no/leger/13905-julie-ellingsen-hustad"
   },
   {
@@ -596,7 +596,7 @@
     "company": "Legesenteret Mariero",
     "address": "Langflåtv 38",
     "availability": "0",
-    "waitingList": "128",
+    "waitingList": "129",
     "link": "https://www.legelisten.no/leger/2338-karen-christensen"
   },
   {
@@ -716,7 +716,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "69",
+    "waitingList": "70",
     "link": "https://www.legelisten.no/leger/2340-lars-peter-christersson"
   },
   {
@@ -836,7 +836,7 @@
     "company": "Køhler Legesenter",
     "address": "",
     "availability": "0",
-    "waitingList": "86",
+    "waitingList": "87",
     "link": "https://www.legelisten.no/leger/2518-margaret-oshaug"
   },
   {
@@ -896,7 +896,7 @@
     "company": "Madlakrossen Legesenter",
     "address": "Madlamarkveien 2",
     "availability": "0",
-    "waitingList": "20",
+    "waitingList": "19",
     "link": "https://www.legelisten.no/leger/2304-marit-bergem-apeland"
   },
   {
@@ -1052,7 +1052,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "5",
+    "waitingList": "6",
     "link": "https://www.legelisten.no/leger/2435-norman-isaac-evbinmaharia-idehen"
   },
   {
@@ -1196,7 +1196,7 @@
     "company": "Paradis Legesenter",
     "address": "Lagårdsveien 73",
     "availability": "0",
-    "waitingList": "82",
+    "waitingList": "84",
     "link": "https://www.legelisten.no/leger/2346-rune-danielsen"
   },
   {
@@ -1208,7 +1208,7 @@
     "company": "Legesenteret Mariero",
     "address": "Langflåtv 38",
     "availability": "0",
-    "waitingList": "99",
+    "waitingList": "98",
     "link": "https://www.legelisten.no/leger/2494-ruth-louise-midtgarden"
   },
   {
@@ -1232,7 +1232,7 @@
     "company": "Lervig Legekontor",
     "address": "Ryfylkegata 55",
     "availability": "0",
-    "waitingList": "9",
+    "waitingList": "11",
     "link": "https://www.legelisten.no/leger/21823-saima-iqbal"
   },
   {
@@ -1268,7 +1268,7 @@
     "company": "Hinnatrekanten Legesenter AS",
     "address": "Hinnasvingene 55",
     "availability": "0",
-    "waitingList": "255",
+    "waitingList": "254",
     "link": "https://www.legelisten.no/leger/6655-silje-seglem-heggheim"
   },
   {
@@ -1316,7 +1316,7 @@
     "company": "Hinnatrekanten Legesenter AS",
     "address": "Hinnasvingene 55",
     "availability": "0",
-    "waitingList": "380",
+    "waitingList": "381",
     "link": "https://www.legelisten.no/leger/2565-stig-david-stendahl"
   },
   {
@@ -1544,7 +1544,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "3",
+    "waitingList": "4",
     "link": "https://www.legelisten.no/leger/14017-william-anthony-tanaruno"
   }
 ]
