@@ -140,7 +140,7 @@
     "company": "Dr. Knutsen legekontor",
     "address": "Lagårdsveien 91",
     "availability": "0",
-    "waitingList": "5",
+    "waitingList": "6",
     "link": "https://www.legelisten.no/leger/24552-cato-knutsen"
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "rating": "4.0",
-    "reviewCount": "26",
+    "reviewCount": "27",
     "name": "Dag Rune Østhus",
     "sex": "Mann",
     "age": "44",
@@ -176,7 +176,7 @@
     "company": "Klubbgaten Legesenter",
     "address": "Klubbgaten 1",
     "availability": "0",
-    "waitingList": "36",
+    "waitingList": "37",
     "link": "https://www.legelisten.no/leger/24190-dan-erik-aronsson"
   },
   {
@@ -188,7 +188,7 @@
     "company": "Hillevåg legesenter",
     "address": "Hillevågsveien 41",
     "availability": "0",
-    "waitingList": "54",
+    "waitingList": "55",
     "link": "https://www.legelisten.no/leger/21661-egil-bjorlow"
   },
   {
@@ -356,7 +356,7 @@
     "company": "Øyane Legesenter",
     "address": "Austbøsletta 5",
     "availability": "0",
-    "waitingList": "172",
+    "waitingList": "171",
     "link": "https://www.legelisten.no/leger/2492-guro-gjesdal-michelsen"
   },
   {
@@ -560,12 +560,12 @@
     "company": "Stavangerdoktoren",
     "address": "St. Olavs gate 6",
     "availability": "0",
-    "waitingList": "30",
+    "waitingList": "31",
     "link": "https://www.legelisten.no/leger/17836-julie-olimstad"
   },
   {
     "rating": "5.0",
-    "reviewCount": "2",
+    "reviewCount": "3",
     "name": "Kai Kronfeldt",
     "sex": "Mann",
     "age": "40",
@@ -740,7 +740,7 @@
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "141",
+    "waitingList": "142",
     "link": "https://www.legelisten.no/leger/2341-line-cecilie-moller-christiansen"
   },
   {
@@ -840,15 +840,15 @@
     "link": "https://www.legelisten.no/leger/2518-margaret-oshaug"
   },
   {
-    "rating": "3.0",
-    "reviewCount": "7",
+    "rating": "3.5",
+    "reviewCount": "8",
     "name": "Maria Hege Voktor Borgen",
     "sex": "Kvinne",
     "age": "33",
     "company": "Stavanger Medisinske Senter",
     "address": "Sverdrupsgate 23",
     "availability": "0",
-    "waitingList": "70",
+    "waitingList": "71",
     "link": "https://www.legelisten.no/leger/23768-maria-hege-voktor-borgen"
   },
   {
@@ -956,7 +956,7 @@
     "company": "Øyane Legesenter",
     "address": "Austbøsletta 5",
     "availability": "",
-    "waitingList": "n/a",
+    "waitingList": "0",
     "link": "https://www.legelisten.no/leger/29668-melissa-manangao-alvestad"
   },
   {
@@ -1081,7 +1081,7 @@
   },
   {
     "rating": "5.0",
-    "reviewCount": "1",
+    "reviewCount": "2",
     "name": "Øyvind Mjønes",
     "sex": "Mann",
     "age": "34",
@@ -1297,7 +1297,7 @@
   },
   {
     "rating": "4.5",
-    "reviewCount": "36",
+    "reviewCount": "37",
     "name": "Stian Ellingsen Lobben",
     "sex": "Mann",
     "age": "45",
@@ -1328,7 +1328,7 @@
     "company": "Kvernevik Legekontor",
     "address": "Traneveien 10",
     "availability": "",
-    "waitingList": "81",
+    "waitingList": "86",
     "link": "https://www.legelisten.no/leger/22277-stine-syversen-kvinnsland"
   },
   {
@@ -1405,7 +1405,7 @@
   },
   {
     "rating": "4.5",
-    "reviewCount": "17",
+    "reviewCount": "18",
     "name": "Thusjanthy Yogalingam",
     "sex": "Kvinne",
     "age": "40",
@@ -1520,7 +1520,7 @@
     "company": "Vågsmyra Legesenter",
     "address": "Boganesveien 29",
     "availability": "0",
-    "waitingList": "52",
+    "waitingList": "53",
     "link": "https://www.legelisten.no/leger/14065-vegard-lokken-aase"
   },
   {
