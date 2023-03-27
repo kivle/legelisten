@@ -44,7 +44,7 @@
     "company": "Kvernevik Legekontor",
     "address": "Traneveien 10",
     "availability": "0",
-    "waitingList": "99",
+    "waitingList": "100",
     "link": "https://www.legelisten.no/leger/29655-anne-karen-boe"
   },
   {
@@ -164,7 +164,7 @@
     "company": "Legekontor Dr. Østhus",
     "address": "Kannikbakken 6",
     "availability": "0",
-    "waitingList": "29",
+    "waitingList": "30",
     "link": "https://www.legelisten.no/leger/2626-dag-rune-osthus"
   },
   {
@@ -212,7 +212,7 @@
     "company": "Lervig Legekontor",
     "address": "Ryfylkegata 55",
     "availability": "0",
-    "waitingList": "19",
+    "waitingList": "22",
     "link": "https://www.legelisten.no/leger/21875-eirik-lunde-lofsgaard"
   },
   {
@@ -404,7 +404,7 @@
     "company": "Holmen Legesenter",
     "address": "Nedre Holmegate 30",
     "availability": "0",
-    "waitingList": "70",
+    "waitingList": "69",
     "link": "https://www.legelisten.no/leger/2434-hege-hoivik"
   },
   {
@@ -644,7 +644,7 @@
     "company": "Rennesøy legekontor",
     "address": "Seljebakken 4",
     "availability": "0",
-    "waitingList": "36",
+    "waitingList": "38",
     "link": "https://www.legelisten.no/leger/4361-kjersti-louise-hodne"
   },
   {
@@ -955,8 +955,8 @@
     "age": "31",
     "company": "Øyane Legesenter",
     "address": "Austbøsletta 5",
-    "availability": "",
-    "waitingList": "0",
+    "availability": "0",
+    "waitingList": "1 person",
     "link": "https://www.legelisten.no/leger/29668-melissa-manangao-alvestad"
   },
   {
@@ -1028,7 +1028,7 @@
     "company": "Madlaklinikken AS",
     "address": "Madlakrossen 9",
     "availability": "0",
-    "waitingList": "89",
+    "waitingList": "92",
     "link": "https://www.legelisten.no/leger/2293-nachaat-aboujamous"
   },
   {
@@ -1328,7 +1328,7 @@
     "company": "Kvernevik Legekontor",
     "address": "Traneveien 10",
     "availability": "",
-    "waitingList": "86",
+    "waitingList": "87",
     "link": "https://www.legelisten.no/leger/22277-stine-syversen-kvinnsland"
   },
   {
@@ -1376,7 +1376,7 @@
     "company": "Hinna Legesenter AS",
     "address": "Boganesveien 10",
     "availability": "0",
-    "waitingList": "46",
+    "waitingList": "48",
     "link": "https://www.legelisten.no/leger/22511-syeda-ayesha-riaz"
   },
   {
